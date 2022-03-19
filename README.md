@@ -1,2 +1,2 @@
 # CommonAPI
-CommonAPI example &amp; genTools
+test directory
