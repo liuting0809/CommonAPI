@@ -1,2 +1,0 @@
-# CommonAPI
-test directory
